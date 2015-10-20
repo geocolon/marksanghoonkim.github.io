@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mark S Kim - Home!
-tagline: Supporting tagline
+title: Mark S Kim - Home
+tagline: Home of Mark's Thoughts
 ---
 {% include JB/setup %}
     
@@ -17,6 +17,8 @@ tagline: Supporting tagline
 
 This section is still unfinished. 
 
-## 
+## Interesting Links
+
+This section is still unfinished. 
 
 
