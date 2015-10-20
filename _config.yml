@@ -9,10 +9,10 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Mark Sanghoon Kim
-tagline: Site Tagline
+tagline: Empathetic Engineer
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : Mark Sanghoon Kim
+  email : mark.s.kim@gmail.com
   github : marksanghoonkim
   twitter : marksanghoonkim
   #feedburner : feedname
