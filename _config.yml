@@ -12,20 +12,20 @@ highlighter:      pygments
 permalink:        none
 version:          1.0.0
 
-title:            "Heiswayi Nrird"
-tagline:          "Just another Software Guy's blog and ranting"
-description:      "It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection."
-url:              http://heiswayi.github.io
+title:            "Mark Sanghoon Kim"
+tagline:          "Empathy is Key"
+description:      "Empathy is Key"
+url:              http://marksanghoonkim.com
 
 author:
-  name:           "Heiswayi Nrird"
-  email:          hnrird@gmail.com
-  url:            http://wayi.me
+  name:           "Mark Sanghoon Kim"
+  email:          mark.s.kim@gmail.com
+  url:            http://marksanghoonkim.com
 
 github:
-  repo:           https://github.com/heiswayi/heiswayi.github.io
+  repo:           https://github.com/marksanghoonkim/marksanghoonkim.github.io
 
 twitter:
-  username:       HeiswayiNrird
+  username:       marksanghoonkim
 
-google_analytics: UA-58296043-7
+# google_analytics: UA-58296043-7
