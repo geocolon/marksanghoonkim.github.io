@@ -1,55 +1,31 @@
-# Site Info
-title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+encoding:         UTF-8
 
-# Author Info
-author_name:        "Mark Sanghoon Kim"
-author_email:       mark.s.kim@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   marksanghoonkim
+#markdown:         kramdown
+#kramdown:
+#  input:          GFM
+#  syntax_highlighter: rouge
+markdown:         redcarpet
+redcarpet:
+  extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter:      pygments
 
-# Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /notes/:title # Post permalink
-timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink:        none
+version:          1.0.0
 
-# Site Build
-highlighter:        pygments
-#markdown:           redcarpet
-#redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          :compressed
+title:            "Heiswayi Nrird"
+tagline:          "Just another Software Guy's blog and ranting"
+description:      "It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection."
+url:              http://heiswayi.github.io
 
-# Other Params
-include:            [ "robots.txt", "CNAME"]
-exclude:            [ "LICENSE", "README.md", "vendor", "Gemfile" ]
-gems:
-  - jekyll-sitemap
+author:
+  name:           "Heiswayi Nrird"
+  email:          hnrird@gmail.com
+  url:            http://wayi.me
 
-compress_html:
-    clippings:      all
-    ingore:
-        envs:       [ "test" ]
+github:
+  repo:           https://github.com/heiswayi/heiswayi.github.io
 
-defaults:
-  -
-    scope:
-      path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
-    values:
-      layout:       "post"
+twitter:
+  username:       HeiswayiNrird
+
+google_analytics: UA-58296043-7
