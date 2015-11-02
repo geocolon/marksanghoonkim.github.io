@@ -5,7 +5,7 @@ description: About Me
 keywords: about mark sanghoon kim
 ---
 
-![About Me](/images/markprofile-new.jpg){: .center-image }
+![About Me](/images/markprofile-new.jpg)
 
 
 
