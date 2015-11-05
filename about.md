@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: About Me
-keywords: about mark sanghoon kim, normalize.css
+keywords: about mark sanghoon kim, engineer, software engineer, software, web, web development
 ---
 
 <p align="center">
