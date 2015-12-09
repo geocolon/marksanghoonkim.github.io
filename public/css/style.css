@@ -74,6 +74,7 @@ body {
     overflow-x: hidden;
     margin: 0;
     padding: 0;
+    height: 100%;
 }
 body {
     color: #515151;
@@ -309,6 +310,9 @@ blockquote p:last-child { margin-bottom: 0 }
     color: #888;
     font-size: 80%;
 }
+.post-list-desc {
+    padding-right: 110px;
+}
 .project-source {
     display: block;
 }
@@ -446,14 +450,16 @@ a.more-projects:hover {
 
 .grid-sizer,
 .grid-item {
+    /*
+    width: -moz-calc( ( 100% - 30px ) / 3 );
+    width: -webkit-calc( ( 100% - 30px ) / 3 );
     width: calc( ( 100% - 30px ) / 3 );
+    */
+    padding: 10px;
+    width: 31.6666667%;
     height: auto;
     float: left;
     margin: 0 0 10px 0;
-}
-
-.center {
-    text-align: center;
 }
 
 @media only screen and (min-width:768px) {
@@ -480,13 +486,24 @@ a.more-projects:hover {
     }
     .grid-sizer,
     .grid-item {
+        /*
+        width: -moz-calc( ( 100% - 20px ) / 2 );
+        width: -webkit-calc( ( 100% - 20px ) / 2 );
         width: calc( ( 100% - 20px ) / 2 );
+        */
+        padding: 10px;
+        width: 47.5%;
     }
 }
 @media only screen and (max-width : 400px) {
   .grid-sizer,
   .grid-item {
+      /*
+      width: -moz-calc( 100% - 10px );
+      width: -webkit-calc( 100% - 10px );
       width: calc( 100% - 10px );
+      */
+      width: 95%;
   }
 }
 /* Print Styles */
