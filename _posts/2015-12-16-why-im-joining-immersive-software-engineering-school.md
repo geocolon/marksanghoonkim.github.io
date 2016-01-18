@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I'm Attending an Immersive Software Engineering School
-description: Blog post about the motivations behind why I'm attending an immersive software engineering school
+description: Blog post about the motivations behind why I'm attending an immersive software engineering school.
 keywords: blog, post, motivation, software, engineer, immersive, coding school, makersquare, codesmith, hack reactor, career
 ---
 
