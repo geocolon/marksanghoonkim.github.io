@@ -2,7 +2,7 @@
 layout: post
 title: Pair Programming is Productive Programming
 description: Blog post about my thoughts on pair programming, and a recap from MakerSquare Week 1.
-keywords: blog, post, pair programming, communication, learning, problem-solving, software, makersquare, data structures, teamwork, recursion
+keywords: blog, post, pair programming, communication, learning, problem-solving, software, makersquare, data structures, teamwork, recursion, los angeles, week 1
 ---
 
 Just finished my first week at MakerSquare LA, and I am more excited to learn and code than I was at the beginning of the program. The past seven days have gone by very quickly, and I wanted to talk about how pair programming has helped me grow as a communicator, as a learner, and as a problem-solver.
