@@ -21,6 +21,8 @@ Pair programming also helped me grow as a learner. Working in pairs requires mor
 
 Like I mentioned above, having another perspective on solving the problem helped develop my own problem-solving skills. During our pairing sessions, we often would catch each other's mistakes, and I made sure I was picking up on what tendencies or bad habits I exhibited. The design quality of the code we wrote was undoubtedly better than the quality of code I would have wrote on my own. Because my partner and I brought different prior experiences to the table, we were able to think through more diverse solutions and sniff out any bad ideas we came up with. 
 
+<h4>MakerSquare Week 1 Recap</h4>
+
 I had a great first week at MakerSquare. It is an exciting time for all of the students and an exciting time for staff as well. It was nice meeting the senior cohort and hearing about their junior experiences. Overall, there's an enthusiam and energy about all the people in MakerSquare.
 
 In our first week we went over:
