@@ -15,11 +15,11 @@ Blogging is a great way to share your thoughts and observations. There are many 
 <li>show off your projects
 </ul>
 
-These are just a few of the many good reasons you should start a blog. I wanted to share a quick post about how to start a blog using <a href="https://pages.github.com/" target="_blank">Github Pages</a>. Github Pages is awesome, super easy to set up, and free! The content is hosted directly from your Github repository. All you need to do is add/edit your files, commit them, and add. And the changes will be live. 
+These are just a few of the many good reasons you should start a blog. I wanted to share a quick post about how to start a blog using <a href="https://pages.github.com/" target="_blank">Github Pages</a>. Github Pages is awesome, super easy to set up, and free! The content is hosted directly from your Github repository. All you need to do is add/edit your files, commit them, and add. And the changes will be live. Let's see how we can get started.
 
 <h4>Step 1: Create your repo</h4>
 
-You start by creating your repo in you Github. The title of your repo must be your <em>username</em>.github.io. Please see the image below.
+You start by creating your repo in Github. The title of your repo must be your <em>username</em>.github.io. Please see the image below.
 
 ![Create Repo](images/create-blog/01-create-repo.png "Creating Repo")
 
@@ -36,7 +36,7 @@ will download the repo to whichever directory you are working in.
 
 <h4>Step 3: Find a website template</h4>
 
-The next step is to decide what kind of website you would like to build. There are an infinite amount of options, templates, and website generators available. I'm personally using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, which is a simple static site generator. There are advantages and disadvantages for both, but I won't go into the specifics for this blog post. For this example, I'm going to download a free Twitter Bootstrap template from <a href="http://startbootstrap.com/" target="_blank">Start Bootstrap</a>. I've chosen a template called <a href=http://startbootstrap.com/template-overviews/freelancer/ target=_blank>"Freelancer"</a>.
+The next step is to decide what kind of website you would like to build. There are an infinite amount of options, templates, and website generators available. I'm personally using <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>, which is a simple static site generator. There are advantages and disadvantages for using a site generator versus writing your own HTML/CSS/JS, but I won't go into the specifics for this blog post. For this example, I'm going to download a free Twitter Bootstrap template from <a href="http://startbootstrap.com/" target="_blank">Start Bootstrap</a>. I've chosen a template called <a href=http://startbootstrap.com/template-overviews/freelancer/ target=_blank>"Freelancer"</a>.
 
 ![Bootstrap theme](images/create-blog/03-start-with-template.png "Bootstrap theme")
 
@@ -48,7 +48,7 @@ Now download the files of the Freelancer bootstrap template.
 
 <h4>Step 5: Add, commit, push to repo</h4>
 
-You're almost finished! Hopefully you are familiar with using git. What you will do now is move the files to your cloned github repo. Then add, commit, and push the changes to git.
+You're almost finished! Hopefully you are familiar with using git. What you will do now is move the files to your cloned github repo folder. Then add, commit, and push the changes to git.
 
 ![Push to Repo](images/create-blog/05-push-to-repo.png "Push to Repo")
 
