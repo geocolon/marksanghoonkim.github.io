@@ -1,6 +1,6 @@
 encoding:         UTF-8
 
-#markdown:         kramdown
+markdown:         kramdown
 kramdown:
   input:          GFM
   syntax_highlighter: rouge
@@ -14,7 +14,7 @@ version:          1.0.0
 
 title:            "Mark Sanghoon Kim"
 tagline:          "Empathy is Key"
-description:      "A software engineers blog with stories about his projects and his learning, as well as other thoughts on software engineering and web development."
+description:      "A software engineer's blog with stories about his projects and his learning, as well as other thoughts on software engineering and web development."
 keywords:         JavaScript, Web Components, DevTools, CSS, Mark Sanghoon Kim, Mark S Kim, marksanghoonkim.com, web development, MVC, blog, software, engineer, software engineer
 url:              http://marksanghoonkim.com
 

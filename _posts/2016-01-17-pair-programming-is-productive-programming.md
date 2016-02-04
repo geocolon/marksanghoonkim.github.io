@@ -26,14 +26,14 @@ Like I mentioned above, having another perspective on solving the problem helped
 I had a great first week at MakerSquare. It is an exciting time for all of the students and an exciting time for staff as well. It was nice meeting the senior cohort and hearing about their junior experiences. Overall, there's an enthusiam and energy about all the people in MakerSquare.
 
 In our first week we went over:
-<ul>
-<li>implementing underscore.js functions</li>
-<li>recursion</li>
-<li>data modeling and classes</li>
-<li>scopes and closures</li>
-<li>keyword this</li>
-<li>pair programming</li>
-<li>data structures and complexity</li>
-</ul>
+
+* implementing underscore.js functions
+* recursion
+* data modeling and classes
+* scopes and closures
+* keyword this
+* pair programming
+* data structures and complexity
+
 
 The best part of the program so far is the pair programming sessions. The lesson plans are carefully thought out and if we ever get stuck for too long, a teaching fellow is usually available to ask us questions and point us in the right direction. I'm hoping to write a post once every week or every other week. Until next time!

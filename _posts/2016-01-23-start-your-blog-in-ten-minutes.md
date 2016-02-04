@@ -7,13 +7,11 @@ keywords: blog, post, github, pages, algorithms, ajax, browser, security, inheri
 
 Blogging is a great way to share your thoughts and observations. There are many reasons why one might want to start a blog.
 
-<ul>
-<li>record your thoughts/observations
-<li>create instructions for a process/tool
-<li>practice writing
-<li>build an audience/online presence
-<li>show off your projects
-</ul>
+* record your thoughts/observations
+* create instructions for a process/tool
+* practice writing
+* build an audience/online presence
+* show off your projects
 
 These are just a few of the many good reasons you should start a blog. I wanted to share a quick post about how to start a blog using <a href="https://pages.github.com/" target="_blank">Github Pages</a>. Github Pages is awesome, super easy to set up, and free! The content is hosted directly from your Github repository. All you need to do is add/edit your files, commit them, and add. And the changes will be live. Let's see how we can get started.
 
@@ -27,9 +25,10 @@ You start by creating your repo in Github. The title of your repo must be your <
 
 Now you have to clone the repo to your computer so you can work on it. A simple git command from the terminal 
 
-```javascript
+~~~ javascript
 git clone repo.name
-```
+~~~
+
 will download the repo to whichever directory you are working in.
 
 ![Clone Repo](images/create-blog/02-clone-repo.png "Clone Repo")
@@ -69,12 +68,11 @@ You will want to update your website with your own information, blog posts, proj
 Now that we've gone through two full weeks of MakerSquare, I feel like I'm in a good groove. The program is very structured, and I appreciate that there are little to no breakdowns in the schedule. It is, for lack of a better word, a very well-oiled machine. We have weekly assessments to check our progress in the past week. We also have weekly small group sessions where we take a step back from all the code and computer science and share about our goals, our experiences, and various other topics. It was refreshing to be able to get away from the computers and just connect with our peers and mentors.
 
 In our second week we went over:
-<ul>
-<li>inheritance patterns</li>
-<li>algorithms</li>
-<li>browser apps, jQuery, and AJAX</li>
-<li>browser security and escaping</li>
-</ul>
+
+* inheritance patterns
+* algorithms
+* browser apps, jQuery, and AJAX
+* browser security and escaping
 
 And we probably touched on a host of other topics during the week. 
 
