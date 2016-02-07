@@ -139,7 +139,7 @@ var NowPlayingView = Backbone.View.extend({
 
 Now we have the NowPlayingView. From the AppView, we saw that when currentSong was updated, the AppView called the NowPlayingView's displaySong function. In here we can see calling the displaySong function will cause the NowPlayingView to re-render, which basically updates the DOM and updates the displayed information.
 
-You can visit our Backbone player <a href="http://www.marksanghoonkim.com/backbone-player/" target="_blank">here</a> along with the <a href="https://github.com/marksanghoonkim/backbone-player" target="_blank">source code</a>. I had a fantastic time working with my pair, Rick Yeh, whose website can be found <a href="http://www.rickyeh.com/" target="_blank">here</a>.
+You can visit our Backbone player <a href="http://www.marksanghoonkim.com/backbone-player/" target="_blank">here</a> along with the <a href="https://github.com/marksanghoonkim/backbone-player" target="_blank">source code</a>. The Backbone player has play, enqueue, and dequeue functionality. I had a fantastic time working with my pair, Rick Yeh, whose website can be found <a href="http://www.rickyeh.com/" target="_blank">here</a>.
 
 This project opened my eyes to how many different things occur in the background from <b>one</b> click. My former self would often complain: "Why can't they just change this about a product? It would be so easy and would make the website so much better." My current self now recognizes more the hard work involved in implementing even a small change. Backbone was frustrating in the beginning, but I appreciate now how the models and views work together. I am eager to see how other MVC frameworks work now that I have a taste.
 
