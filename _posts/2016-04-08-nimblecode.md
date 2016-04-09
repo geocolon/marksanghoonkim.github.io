@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nimblecode
+title: nimblecode - How fast can you code?
 description: Code typing racing game with singleplayer and live multiplayer modes. Built in React/Redux.
 keywords: projects, single page application, React, Redux, React-router, socket.io, Ace Editor, Node, Express, MySQL, Bootstrap, Google Material UI, nimblecode, nimblecode.io, coding, typing, racing, code typing, ghost replay
 ---
@@ -10,7 +10,7 @@ Nimblecode is a code type-racing game with singleplayer and live multiplayer mod
 The idea of nimblecode was borne out of an afternoon when I was playing <a href="http://play.typeracer.com/">typeracer</a> with a few other developers. I thought to myself: "What if we built out a game, like typeracer, but instead of typing out passages, we typed out code?" If it could be made into a competitive game, it could be educational and fun at the same time. That day, <a href="http://nimblecode.io">nimblecode</a> was born.
 
 <div id="container">
-  <iframe width="420" height="315" src="https://www.youtube.com/embed/hVtSYTtRgIg" frameborder="0" allowfullscreen> </iframe>
+  <iframe width="100%" height="315" src="https://www.youtube.com/embed/hVtSYTtRgIg" frameborder="0" allowfullscreen> </iframe>
 </div>
 <br>
 

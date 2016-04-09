@@ -630,6 +630,7 @@ a.more-projects:hover {
 .css .o + .nt,
 .css .nt + .nt { color: #999 }
 
-#container {
+#container iframe {
     text-align: center;
+    width: 100%;
 }
