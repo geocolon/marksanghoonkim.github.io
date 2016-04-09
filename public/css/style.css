@@ -629,3 +629,7 @@ a.more-projects:hover {
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999 }
+
+#container {
+    text-align: center;
+}
