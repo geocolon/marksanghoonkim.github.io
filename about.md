@@ -10,10 +10,8 @@ keywords: about mark sanghoon kim, engineer, software engineer, software, web, w
   <div align="center">
   	My name is <strong>Mark Sanghoon Kim</strong>, and this is my personal blog.
   	<br><br>
-  	I am a software engineer interested in using software to build useful products. I strongly believe that <strong>empathy</strong> is key. It is key in designing good products, in working well as a member of a team, and in growing as a developer, a leader, and as a person.
-  	<br><br>
-  	I studied at <a href="http://www.ucla.edu/">UCLA</a> and graduated with a B.S. in Civil Engineering and a minor in Environmental Engineering. For the past 3.5 years, I worked in the oil and gas industry as a project engineer for <a href="https://atmosi.com/">Atmos International</a>, a pipeline technology and software company. It was during these few years that I learned how to work with clients to build leak detection software systems that met their needs. My favorite questions are: "<strong><em>Why</em></strong> <em>do we do what we do?"</em> and "<b><em>How</em></b> <em>can we do it better?</em>"
-  	<br><br>
+  	I am a software engineer interested in using software to build useful products. I strongly believe that <strong>empathy</strong> is key. It is key in designing good products, in working well as a member of a team, and in growing as a developer, a leader, and as a person. My favorite questions are: "<strong><em>Why</em></strong> <em>do we do what we do?"</em> and "<b><em>How</em></b> <em>can we do it better?</em>"
+    <br><br>
   	I hope to build meaningful relationships with those I work with, and collaborate to develop useful, relevant products.
   </div>
 </p>
