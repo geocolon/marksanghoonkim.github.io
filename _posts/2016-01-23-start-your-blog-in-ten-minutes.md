@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Start Your Blog in Ten Minutes
-description: Instructions to starting a blog in ten minutes using Github Pages, and a recap from MakerSquare Week 2.
-keywords: blog, post, github, pages, algorithms, ajax, browser, security, inheritance patterns, jquery, makersquare, los angeles
+description: Instructions to starting a blog in ten minutes using Github Pages, and a recap from Hack Reactor Week 2.
+keywords: blog, post, github, pages, algorithms, ajax, browser, security, inheritance patterns, jquery, makersquare, Hack Reactor, los angeles
 ---
 
 Blogging is a great way to share your thoughts and observations. There are many reasons why one might want to start a blog.
@@ -63,9 +63,9 @@ We're done! We don't have any content yet, but our website is up and running and
 
 You will want to update your website with your own information, blog posts, project information, etc. Whenever you do add content, all you need to do is add, commit, and push. And your changes will be live.
 
-<h4>MakerSquare Week 2 Recap</h4>
+<h4>Hack Reactor Week 2 Recap</h4>
 
-Now that we've gone through two full weeks of MakerSquare, I feel like I'm in a good groove. The program is very structured, and I appreciate that there are little to no breakdowns in the schedule. It is, for lack of a better word, a very well-oiled machine. We have weekly assessments to check our progress in the past week. We also have weekly small group sessions where we take a step back from all the code and computer science and share about our goals, our experiences, and various other topics. It was refreshing to be able to get away from the computers and just connect with our peers and mentors.
+Now that we've gone through two full weeks of Hack Reactor, I feel like I'm in a good groove. The program is very structured, and I appreciate that there are little to no breakdowns in the schedule. It is, for lack of a better word, a very well-oiled machine. We have weekly assessments to check our progress in the past week. We also have weekly small group sessions where we take a step back from all the code and computer science and share about our goals, our experiences, and various other topics. It was refreshing to be able to get away from the computers and just connect with our peers and mentors.
 
 In our second week we went over:
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Backbone and MVC
-description: Using Backbone and MVC patterns, with a recap from MakerSquare Weeks 3 and 4.
-keywords: blog, post, makersquare, los angeles, D3, MVC, frameworks, Backbone.js, Backbone, React, React.js, node.js, models, views, collections, servers, REST, SQL, databases
+description: Using Backbone and MVC patterns, with a recap from Hack Reactor Weeks 3 and 4.
+keywords: blog, post, Hack Reactor, makersquare los angeles, D3, MVC, frameworks, Backbone.js, Backbone, React, React.js, node.js, models, views, collections, servers, REST, SQL, databases
 ---
 
 Last week we delved into MVC architectural patterns and worked with Backbone during a two-day sprint. It was my first experience with a framework, and while it was difficult getting started, by day two of the sprint, my partner and I made significant progress and were adding additional features to our Backbone project. I wanted to share a little more about what I learned during the Backbone sprint.
@@ -143,7 +143,7 @@ You can visit our Backbone player <a href="http://www.marksanghoonkim.com/backbo
 
 This project opened my eyes to how many different things occur in the background from <b>one</b> click. My former self would often complain: "Why can't they just change this about a product? It would be so easy and would make the website so much better." My current self now recognizes more the hard work involved in implementing even a small change. Backbone was frustrating in the beginning, but I appreciate now how the models and views work together. I am eager to see how other MVC frameworks work now that I have a taste.
 
-<h5>MakerSquare Weeks 3 and 4</h5>
+<h5>Hack Reactor Weeks 3 and 4</h5>
 
 Over the past two weeks, we went over many, many topics. Some of the topics include:
 
