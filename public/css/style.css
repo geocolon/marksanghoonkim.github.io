@@ -257,6 +257,10 @@ tbody tr:nth-child(odd) th { background-color: #f9f9f9 }
 .project-list code {
     font-size: .9em;
 }
+.project-screenshot {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
 .page a,
 .post a { border-bottom: 1px solid #069 }
 .notes a { border: 0 }
