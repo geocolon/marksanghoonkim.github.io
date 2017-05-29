@@ -465,11 +465,11 @@ a.more-projects:hover {
 @media only screen and (min-width:768px) {
     html { font-size: 20px }
     .container,
-    .footer { max-width: 32rem }
+    .footer { max-width: 40rem }
 }
 @media only screen and (min-width:1200px) {
     .container,
-    .footer { max-width: 38rem }
+    .footer { max-width: 46rem }
 }
 @media (min-width: 30.1em) {
     .text-truncate {
