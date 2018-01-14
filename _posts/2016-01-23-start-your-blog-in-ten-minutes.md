@@ -2,7 +2,7 @@
 layout: post
 title: Start Your Blog in Ten Minutes
 description: Instructions to starting a blog in ten minutes using Github Pages, and a recap from Hack Reactor Week 2.
-keywords: blog, post, github, pages, algorithms, ajax, browser, security, inheritance patterns, jquery, makersquare, Hack Reactor, los angeles
+keywords: blog, jekyll, host, static, template, post, github, pages, github pages, bootstrap, algorithms, ajax, browser, security, inheritance patterns, jquery, makersquare, Hack Reactor, los angeles
 ---
 
 Blogging is a great way to share your thoughts and observations. There are many reasons why one might want to start a blog.
